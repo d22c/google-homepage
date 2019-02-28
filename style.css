@@ -4,4 +4,15 @@
 
 #center-body{
     text-align: center;
+    margin: 180px;
+}
+
+#nav-bar ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#left-nav li, #right-nav li {
+    display: inline;
 }
