@@ -1,5 +1,5 @@
 # google-homepage
-Static reconstruction Google's homepage as a means of practicing the design and layout aspects of HTML/CSS.
+Static reconstruction of Google's homepage. Built with HTML5 and CSS3.
 
 To Run Locally :
 
